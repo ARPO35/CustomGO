@@ -1,0 +1,36 @@
+具体教程和讲解：https://www.bilibili.com/video/BV1JDn9ecE3W
+
+使用教程：
+一、当你只想用跳投、前跳投、大跳等操作，而不想照搬我的CFG的时候。
+1.下载autoexec.cfg和movement文件夹。
+2.将autoexec.cfg和movement文件夹粘贴到你的CFG路径中。（默认x跳投，z前跳投，c大跳）
+（示例路径：E:\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg）
+（切记，从Coutner-Strike Global Offensive之后要先进一个game文件夹，再进csgo文件夹，而不是直接点csgo文件夹）
+（如果你想修改按键，则用记事本打开autoexec.cfg，然后根据里面的说明操作即可）
+3.因此你的CFG文件夹路径应该是：
+-cfg
+    - movement
+        -setup.cfg
+        -final.cfg
+        -tick0.cfg等
+    -autoexec.cfg
+4.在你的steam库中找到CS2，点击右边小齿轮，点击属性，在下方的启动项文本框中输入：-console +exec autoexec.cfg
+5.启动游戏即可
+
+注意：这个CFG单次游戏生效三个小时。因此当你的cs2.exe持续运行三个小时不管就会失效，需要重新启动游戏。或者回到主菜单界面，打开控制台，键入exec autoexec即可重新生效。
+
+二、如果你想完全照搬我的cfg，则将下载的所有文件全部直接粘贴到你的cfg路径中即可。（不太建议）
+（此操作会将游戏里所有的绑定按键全部修改为我的设置，不建议用）
+
+所有文件说明：
+- RodMajors.cfg是本体CFG，也就相当于你们的autoexec.cfg
+- run.cfg是跑图用的CFG，因为我本人不习惯平台跑图房，所以我会自己建本地跑图房。
+- demo.cfg是看demo用的一些修改键位的CFG，专供看demo用
+- spawn和keybindsspawn是出生位CFG的本体
+- movement文件夹内是一键跳投、大跳、前跳投、矮跳、jumpbug、滚轮跳等的原理内容，不用管
+- MapSpawns文件夹内是出生位CFG的原理内容，也不用管。
+
+切记不要完全照搬我的CFG，里面有很多绑键只适合我本人，我每一个bind都打了备注请看清楚再选用。
+
+我的启动项：
+-allow_third_party_software -worldwide -novid -console -freq 360 -tickrate 128 +exec RodMajors  -nojoy +fps_max 0 -threads 8
