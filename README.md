@@ -1,7 +1,7 @@
 # CustomGO
 
 **用于 CS2 的Legit CFG**
-[仓库地址](https://github.com/ARPO35/CustomGO/)
+[*仓库地址*](https://github.com/ARPO35/CustomGO/)
 
 **使用前注意备份设置，此CFG会修改多项绑定和设定**
 
@@ -16,15 +16,15 @@
 
 
 ### 部分CFG来源：
-`CSTM\movement\\*`
-[From -Cap1taL-](https://space.bilibili.com/362753211)
+`CSTM\movement\*` From
+[`-Cap1taL-`](https://space.bilibili.com/362753211)
 
-`CSTM\AutoChat\ez1.cfg`
-[From iveRinns、白泽craft、终御](https://www.bilibili.com/video/BV1Sf42117vX)
+`CSTM\AutoChat\ez1.cfg` From
+[`iveRinns`](https://space.bilibili.com/152310954)[`白泽craft`](https://space.bilibili.com/12302591)[`终御`](https://www.bilibili.com/video/BV1vt421K77g)
 
-`CSTM\AutoChat\ez2.cfg`
-[From iveRinns、白泽craft、hi你好o_o](https://space.bilibili.com/8939195)
+`CSTM\AutoChat\ez2.cfg` From
+[`iveRinns`](https://space.bilibili.com/152310954)[`白泽craft`](https://space.bilibili.com/12302591)[`hi你好o_o`](https://space.bilibili.com/8939195)
 
 `CSTM\AutoChat\noob.cfg`
-`CSTM\AutoChat\good.cfg`
-[From 不是鸿儒是白丁](https://space.bilibili.com/325103315)
+`CSTM\AutoChat\good.cfg` From
+[`不是鸿儒是白丁`](https://space.bilibili.com/325103315)
