@@ -12,7 +12,9 @@
 
 如果使用5E平台，可以在5EBOX中添加启动项`+exec cstm\Settings\Setting_5E`
 
->**注意：在官匹使用Setting_5E可能导致游戏崩溃**
+>~~注意：在官匹使用Setting_5E可能导致游戏崩溃~~
+
+>**20250920：现在Setting_5E在5E平台也可能引发崩溃，如果发生闪退请使用Setting_Valve配置**
 
 
 ### 部分CFG来源：
